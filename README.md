@@ -1,2 +1,2 @@
 # Computer_Vision
-當初覺得有趣就去看影片自學openCV與Kaggle
+當初覺得有趣就去看影片自學openCV與Kaggle的使用
